@@ -33,7 +33,7 @@ public class DataManager {
         this.context = context;
     }
 
-    //ȥ��
+    //去重
     public List removeDuplicateWithOrder(List list) {
         Set set = new HashSet();
         List newList = new ArrayList();
@@ -45,7 +45,7 @@ public class DataManager {
         return newList;
     }
 
-    //��ȡͼƬ
+    //读取图片
     public Bitmap getImageFromAssetsFile(String fileName) {
         Bitmap image = null;
         AssetManager am = context.getResources().getAssets();
