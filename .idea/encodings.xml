@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/gson-2.3.1.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/libs/pinyin4j-2.5.0.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bigrun/assortdemo/adapter/CarBrandsAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bigrun/assortdemo/assortpinyin/AssortPinyinList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bigrun/assortdemo/assortpinyin/AssortView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bigrun/assortdemo/assortpinyin/LanguageComparator_CN.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bigrun/assortdemo/assortpinyin/LanguageComparator_EN.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bigrun/assortdemo/model/CarImagesBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bigrun/assortdemo/widget/assortpinyin/AssortPinyinList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bigrun/assortdemo/widget/assortpinyin/AssortView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bigrun/assortdemo/widget/assortpinyin/LanguageComparator_CN.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bigrun/assortdemo/widget/assortpinyin/LanguageComparator_EN.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/selector_view_deepen.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/assort_group_item.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/assortview_popwindow_layout.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/carbrands_item.xml" charset="UTF-8" />
+  </component>
+</project>
