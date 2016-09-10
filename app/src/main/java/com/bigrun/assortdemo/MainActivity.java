@@ -1,8 +1,8 @@
 package com.bigrun.assortdemo;
 
-import android.app.Activity;
 import android.content.res.AssetManager;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -31,7 +31,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
 
-public class MainActivity extends Activity {
+public class MainActivity extends AppCompatActivity {
     private CarBrandsAdapter adapter;
     private ExpandableListView eListView;
     private AssortView assortView;
